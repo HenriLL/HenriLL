@@ -38,7 +38,7 @@
 ![image](https://user-images.githubusercontent.com/52387034/147663941-f06d2831-ff78-433e-8a30-3fb930834a5e.png)
 ![image](https://user-images.githubusercontent.com/52387034/147663967-a454652f-4364-40fc-a685-0e2852095d16.png)
 
-
+  ![Snake animation](https://github.com/HenriLL/HenriLL/blob/output/github-contribution-grid-snake.svg)
 
 
 
