@@ -1,3 +1,21 @@
+### Atualmente cursando o módulo de Back-end na Trybe
+
+##### Tecnologias que estou aprendendo.
+
+![image](https://user-images.githubusercontent.com/52387034/147666487-1258f29c-f0b7-4609-bee9-4206e66822eb.png)
+![image](https://user-images.githubusercontent.com/52387034/147666499-0d369eac-1d0f-47bb-afdd-0ff011f9a473.png)
+![image](https://user-images.githubusercontent.com/52387034/147666599-101f4072-a850-4cdd-a1a3-7cd2f76cc64c.png)
+![image](https://user-images.githubusercontent.com/52387034/147666616-3665c7e0-c721-4041-8d96-479a8aaaebe7.png)
+![image](https://user-images.githubusercontent.com/52387034/147666649-9f5e3601-f0cc-4c6c-83c6-c19f638baae0.png)
+
+
+
+
+
+<div>
+  https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+</div>
+
 
 ![image](https://user-images.githubusercontent.com/52387034/147662547-a4829244-98af-4e1a-b4ba-536314cde21f.png)
 ![image](https://user-images.githubusercontent.com/52387034/147662623-207d11c3-4a96-4822-97c6-9f4bf57b20ef.png)
@@ -19,6 +37,8 @@
 ![image](https://user-images.githubusercontent.com/52387034/147663930-4229a709-efc9-408d-a173-3e4628567938.png)
 ![image](https://user-images.githubusercontent.com/52387034/147663941-f06d2831-ff78-433e-8a30-3fb930834a5e.png)
 ![image](https://user-images.githubusercontent.com/52387034/147663967-a454652f-4364-40fc-a685-0e2852095d16.png)
+
+![image](https://user-images.githubusercontent.com/52387034/147667160-0de3a8e9-3769-4b78-9f71-679873dd7c86.png)
 
 
 
