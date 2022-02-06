@@ -47,7 +47,7 @@
 ![image](https://user-images.githubusercontent.com/52387034/147663941-f06d2831-ff78-433e-8a30-3fb930834a5e.png)
 ![image](https://user-images.githubusercontent.com/52387034/147663967-a454652f-4364-40fc-a685-0e2852095d16.png)
 
-<img height="190em" align="right" alt="Yoshi" src="https://i.imgur.com/LFG0GPR.gif">
+
 
 
   ![Snake animation](https://github.com/HenriLL/HenriLL/blob/output/github-contribution-grid-snake.svg)
