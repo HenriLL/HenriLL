@@ -1,4 +1,4 @@
-### Atualmente cursando o módulo de Back-end na Trybe
+
 
 ### Tecnologias que estou aprendendo.
 
@@ -30,7 +30,7 @@
 
 ##### Utilizo os sistemas operacionais:
 ![image](https://user-images.githubusercontent.com/52387034/147669995-e8908161-436b-411d-b13e-602d3a279dda.png)
-![image](https://user-images.githubusercontent.com/52387034/147670017-6343f560-417a-42e1-ba09-265906265160.png)
+
 
 
 
