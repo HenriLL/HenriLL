@@ -1,10 +1,11 @@
-### Olá! Eu sou o Henrique Lima 🙋‍♂️
+# Henrique
 
 Apaixonado por tecnologia.
 
 ##### Você pode me encontrar aqui:
 <div>
-  <a href="https://www.linkedin.com/in/henrique-l-lima/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  [![LInkedin](https://www.linkedin.com/in/henrique-l-lima/)]
+  <a href="https://www.linkedin.com/in/henrique-l-lima/" target="_blank">Linkedin</a> 
 </div>
 
 ##### Tecnologias que uso:
