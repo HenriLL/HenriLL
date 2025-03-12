@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fc5203&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fc4e03&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+é+HENRIQUE+LEMOS+DE+LIMA;Amo+Tecnologia+=D;Seja+Bem-Vindo!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fc4e03&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+HENRIQUE+LEMOS+DE+LIMA;AMO+TECNOLOGIA+=D;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
 
 # Henrique 👨‍💻
 
