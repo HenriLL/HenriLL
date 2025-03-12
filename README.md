@@ -4,7 +4,7 @@
 
 # Henrique 👨‍💻
 
-Atualmente, estou fazendo mentoria focado na área de QA pela Lumestack e também estudando Java. Sou apaixonada por tecnologia e tudo que envolve esse meio.
+Atualmente, estou fazendo mentoria focado na área de QA pela Lumestack e também estudando Java. Sou apaixonado por tecnologia e tudo que envolve esse meio.
 
 
 ##### 🤖 Tecnologias que uso:
