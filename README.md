@@ -1,11 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fc5203&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fc4e03&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+HENRIQUE+LEMOS+DE+LIMA;AMO+TECNOLOGIA+=D;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=fc4e03&size=35&center=true&vCenter=true&width=1000&lines=OLÁ,+MEU+NOME+É+HENRIQUE;AMO+TECNOLOGIA+=D;SEJA+BEM-VINDO!+:%29)](https://git.io/typing-svg)
 
-# Henrique 👨‍💻
-
-Atualmente, estou fazendo mentoria focado na área de QA pela Lumestack e também estudando Java. Sou apaixonado por tecnologia e tudo que envolve esse meio.
-
+# 👨‍💻
 
 ##### 🤖 Tecnologias que uso:
 <div style ="display: inline_block">
