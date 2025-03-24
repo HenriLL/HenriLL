@@ -18,14 +18,6 @@ Atualmente, estou fazendo mentoria focado na área de QA pela Lumestack e també
 <img src= "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
 </div>
 
-
-
-##### 💻🖥 Sistemas operacionais:
-![image](https://user-images.githubusercontent.com/52387034/147669995-e8908161-436b-411d-b13e-602d3a279dda.png)
-![image](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
-![image](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
-
 #### 👨‍💻 Atualmente estou estudando:
 <div style ="display: inline_block">
 <img src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
